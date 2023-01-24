@@ -1,0 +1,65 @@
+body {
+  width: 90%;
+}
+.reww {
+  background: rgb(217, 224, 152);
+  margin-left: 10%;
+}
+h1 {
+  font-size: 150%;
+  color: blue;
+}
+p {
+  color: rgb(14, 26, 11);
+}
+h2 {
+  font-size: 150%;
+  color: rgb(8, 46, 3);
+}
+.rewww {
+  background: rgb(247, 192, 192);
+  margin: 5px;
+}
+.rewwww {
+  background-color: blanchedalmond;
+  margin: 5px;
+
+  text-align: center;
+}
+.rewwww ul {
+  list-style: none;
+  text-align: left;
+}
+.rewwww ul li a {
+  text-decoration: none;
+  color: beige;
+  background-color: blue;
+}
+
+.reww2 {
+  background-color: rgb(245, 77, 203);
+  margin: 5px;
+  color: black;
+  text-align: center;
+}
+.reww2 h1 {
+  color: black;
+}
+.rew3 {
+  background-color: rgb(150, 245, 141);
+  margin: 5px;
+}
+.ree5 a {
+  text-decoration: none;
+  border: 1px solid blue;
+  margin: -1px;
+  padding: -1px;
+  background-color: blue;
+  color: aliceblue;
+}
+
+.ree5 a:hover {
+  background-color: brown;
+  color: yellow;
+}
+
